@@ -6,7 +6,6 @@ https://user-images.githubusercontent.com/2507232/126041752-4182bfb9-e5ea-4f5d-b
 
 
 
-
 ![f1.png](images/speaker_reshama_shaikh.jpg)
 
 
