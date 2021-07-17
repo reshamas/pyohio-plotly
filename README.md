@@ -1,6 +1,12 @@
 # PyOhio: Annotating Plotly Visualizations
 # Speaker:  Reshama Shaikh
 
+
+https://user-images.githubusercontent.com/2507232/126041752-4182bfb9-e5ea-4f5d-b8d3-221dd0d03af0.mp4
+
+
+
+
 ![f1.png](images/speaker_reshama_shaikh.jpg)
 
 
