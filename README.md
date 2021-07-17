@@ -1,5 +1,9 @@
 # PyOhio: Annotating Plotly Visualizations (by Reshama Shaikh)
 
+
+![f1.png](images/speaker_reshama_shaikh.jpg)
+
+
 ### Speaker
 Reshama Shaikh [(@reshamas)](https://twitter.com/reshamas)
 
@@ -24,3 +28,6 @@ Getting started annotating graphs.
 
 ### Link to GitHub Repo
 https://github.com/reshamas/pyohio-plotly
+
+### Link to Video Demo
+https://twitter.com/reshamas/status/1406792972226682881
