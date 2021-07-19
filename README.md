@@ -1,21 +1,17 @@
 # PyOhio: Annotating Plotly Visualizations
-# Speaker:  Reshama Shaikh
 
-## Slides
-[PyOhio 2021: Enriching Data Visualizations with Annotations in Plotly](https://docs.google.com/presentation/d/1SFaoSvKxqnun0cYtSluE9fBm-113ivxm_DmggVR7i4A/edit?usp=sharing)
+### Speaker:  Reshama Shaikh [(@reshamas)](https://twitter.com/reshamas)
 
+### Slides:  [PyOhio 2021: Enriching Data Visualizations with Annotations in Plotly](https://docs.google.com/presentation/d/1SFaoSvKxqnun0cYtSluE9fBm-113ivxm_DmggVR7i4A/edit?usp=sharing)
 
-## Video Preview:  Annotation
+### Video Preview:  [Annotation Examples](https://youtu.be/k7kcMg4Ao7Y)
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=k7kcMg4Ao7Y" target="_blank"><img src="http://img.youtube.com/vi/k7kcMg4Ao7Y/0.jpg" 
 alt="PyOhio Preview: Enriching Data Visualizations with Annotations in Plotly" width="50%" /></a>
 
 
-![f1.png](images/speaker_reshama_shaikh.jpg =250x250)
+![f1.png](images/speaker_reshama_shaikh.jpg)
 
-
-### Speaker
-Reshama Shaikh [(@reshamas)](https://twitter.com/reshamas)
 
 ### Conference
 - [PyOhio](https://www.pyohio.org/2021/)
