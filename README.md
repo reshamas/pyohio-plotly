@@ -4,6 +4,8 @@
 
 ### Slides:  [PyOhio 2021: Enriching Data Visualizations with Annotations in Plotly](https://docs.google.com/presentation/d/1SFaoSvKxqnun0cYtSluE9fBm-113ivxm_DmggVR7i4A/edit?usp=sharing)
 
+### Video: [PyOhio 2021: Enriching Data Visualizations with Annotations in Plotly](https://youtu.be/D2vsLy85rog)
+
 ### Article on Medium:  [Creating Annotations in Python Plotly](https://medium.com/@reshamas/enriching-data-visualizations-with-annotations-in-plotly-using-python-6127ff6e0f80)
 
 ### Video Preview:  [Annotation Examples](https://youtu.be/k7kcMg4Ao7Y)
